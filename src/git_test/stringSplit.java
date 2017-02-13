@@ -10,4 +10,9 @@ public class stringSplit {
 		return sub;
 		
 	}
+	
+	public int getTotal(int t){
+		
+		return t*5;
+	}
 }
